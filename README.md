@@ -1,1 +1,0 @@
-# Geethika_WellBot-Global-Wellness-Assistant-Chatbot_TeamD
