@@ -134,9 +134,7 @@ wellbot/
 | `GET /api/dashboard/stats` | JSON dashboard stats |
 
 ---
+WellBot AI Assistance -
 
-Team-D WellBot AI Assistance -
-Rashi Rathore, 
-M.Geethika, 
-R.Jansi Raju, 
-Shaik.Sana Afrin.
+M.Geethika 
+
