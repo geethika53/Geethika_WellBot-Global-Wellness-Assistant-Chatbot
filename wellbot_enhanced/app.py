@@ -9,6 +9,9 @@ from translations import TRANSLATIONS
 from groq import Groq
 import random
 import io
+from dotenv import load_dotenv
+load_dotenv(dotenv_path=os.path.join(os.path.dirname(__file__), '.env'))
+print("GROQ KEY:", os.getenv("GROQ_API_KEY"))
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # ── ML MODEL INTEGRATION ──────────────────────────────────────────────────────
